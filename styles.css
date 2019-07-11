@@ -1,0 +1,29 @@
+img:hover{
+  transform: scale(1.2);
+
+
+.header{
+  font-family: 'Archivo Black', sans-serif;
+}
+h3{
+  font-family: 'Archivo Black', sans-serif;
+}
+.title{
+  font-family: 'Montserrat', sans-serif;
+  padding: 5px;
+
+}
+a:link, a:visited {
+ background-color: #fc194e;
+ color: white;
+ padding: 14px 25px;
+ text-align: center;
+ text-decoration: none;
+ display: inline-block;
+ font-family: 'Archivo Black', sans-serif;
+}
+a:hover, a:active {
+ background-color: #ff4069;
+
+
+}
